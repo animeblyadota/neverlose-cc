@@ -661,6 +661,14 @@ h1,
   max-width: 36rem;
 }
 
+.max-w-lg {
+  max-width: 32rem;
+}
+
+.max-w-md {
+  max-width: 28rem;
+}
+
 .select-none {
   -webkit-user-select: none;
      -moz-user-select: none;
@@ -814,6 +822,11 @@ h1,
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.text-6xl {
+  font-size: 3.75rem;
+  line-height: 1;
 }
 
 .font-bold {
